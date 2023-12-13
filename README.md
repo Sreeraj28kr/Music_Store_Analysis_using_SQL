@@ -4,7 +4,7 @@ This analysis will provide great insight to the stakeholders to take right and e
 
 📉Insight: This SQL project explores the world of music using a comprehensive music store dataset. By leveraging SQL queries, this project aims to provide insights into various aspects of the music industry, including sales analysis, customer behavior, and genre preferences.
 
-📝Findings:
+📝Sample Questions:
 1.	Identify the senior most employees based on their job title.
 2.	Determine the countries with the highest number of invoices.
 3.	Identify the top three values of total invoices.
