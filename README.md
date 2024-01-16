@@ -2,6 +2,9 @@
 🎯Objective: This project will show you how to analyze the digital music store database. I have examined the dataset with SQL and helped the store understand its business growth by answering simple and complex questions based on geographical growth, purchase power, total revenue, genre performance, music band popularity, best city in terms of revenue and best customer in terms of purchase rate.
 This analysis will provide great insight to the stakeholders to take right and effective decisions.
 
+## Schema
+![MusicDatabaseSchema](https://github.com/Sreeraj28kr/Vrinda_Store_Data_Analysis/assets/153048765/32874592-07a4-44e8-8306-820cee985d3f)
+
 📉Insight: This SQL project explores the world of music using a comprehensive music store dataset. By leveraging SQL queries, this project aims to provide insights into various aspects of the music industry, including sales analysis, customer behavior, and genre preferences.
 
 📝Sample Questions:
